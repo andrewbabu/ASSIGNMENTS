@@ -17,8 +17,10 @@ public class q5 {
 }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter 1st string:");
         String a = sc.next();
+        System.out.println("Enter 2nd string:");
         String b = sc.next();
-        System.out.println(stringMatch(a, b));
+        System.out.println("No of matching substrings"+stringMatch(a, b));
     }
 }

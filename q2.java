@@ -2,6 +2,7 @@ import java.util.*;
 class q2{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter string");
         String s = sc.next();
         char a = s.charAt(0);
         char b = s.charAt(1);
