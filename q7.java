@@ -1,5 +1,15 @@
+/*
+Display numbers in a pyramid pattern.
+                   1
+                 1 2 1
+               1 2 4 2 1
+             1 2 4 8 4 2 1
+          1 2 4 8 16 8 4 2 1
+       1 2 4 8 16 32 16 8 4 2 1
+    1 2 4 8 16 32 64 32 16 8 4 2 1
+ */
+// Id - 21CE002 Andrew
 import org.w3c.dom.ls.LSInput;
-
 public class q7 {
     public static void main(String[] args) {
         int n =7;

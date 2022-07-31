@@ -1,5 +1,6 @@
+/* The problem is to check whether a given Sudoku solution is correct. */
+//Id - 21CE002 Andrew
 public class q9 {
-
     public static void main(String args[]) {
 
         int a[][] = { {5,3,4,6,7,8,9,1,2},
